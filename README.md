@@ -20,6 +20,12 @@ This raises the question: In a polarized political environment, do citizens prio
 - Conduct Exploratory Data Analysis (EDA) on data from the 2021 referendum in Taiwan.
 - Visualize the relationship between party positions, national identity, and citizens' policy support.
 
+## Project Slides
+<p align="center">
+  <iframe src="./Slide_Benefit%20or%20Loyalty_An%20Empirical%20Research%20from%20the%202021%20Referendum%20in%20Taiwan.pdf" width="100%" height="500px">
+  </iframe>
+</p>
+
 ### Conclusion
 
 Understanding whether citizens prioritize personal benefit or party loyalty in a polarized environment is crucial for comprehending how political polarization affects democratic governance and policy outcomes.
