@@ -21,10 +21,8 @@ This raises the question: In a polarized political environment, do citizens prio
 - Visualize the relationship between party positions, national identity, and citizens' policy support.
 
 ## Project Slides
-<p align="center">
-  <iframe src="./Slide_Benefit%20or%20Loyalty_An%20Empirical%20Research%20from%20the%202021%20Referendum%20in%20Taiwan.pdf" width="100%" height="500px">
-  </iframe>
-</p>
+
+[![View Slides](https://img.shields.io/badge/View_Presentation-Click_Here-blue?style=for-the-badge&logo=googleslides)](./Slide_Benefit%20or%20Loyalty_An%20Empirical%20Research%20from%20the%202021%20Referendum%20in%20Taiwan.pdf)
 
 ### Conclusion
 
