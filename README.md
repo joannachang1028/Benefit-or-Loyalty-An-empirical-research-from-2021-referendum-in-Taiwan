@@ -11,14 +11,14 @@ This raises the question: In a polarized political environment, do citizens prio
 
 ### Objectives
 
-- Analyze the extent of political polarization in Taiwan.
-- Examine the influence of national identity on policy positions.
-- Investigate whether citizens prioritize personal benefit or party loyalty.
+- Analyze the extent of political polarization in Taiwan
+- Examine the influence of national identity on policy positions
+- Investigate whether citizens prioritize personal benefit or party loyalty
 
 ### Methodology
 
-- Conduct Exploratory Data Analysis (EDA) on data from the 2021 referendum in Taiwan.
-- Visualize the relationship between party positions, national identity, and citizens' policy support.
+- Conduct Exploratory Data Analysis (EDA) on data from the 2021 referendum in Taiwan
+- Visualize the relationship between party positions, national identity, and citizens' policy support
 
 ## Project Slides
 
@@ -32,8 +32,9 @@ This raises the question: In a polarized political environment, do citizens prio
 
 ### Conclusion
 
-Understanding whether citizens prioritize personal benefit or party loyalty in a polarized environment is crucial for comprehending how political polarization affects democratic governance and policy outcomes.
+- Economic benefit plays a limited role in individuals policy attitudes
+- Constituents’ loyalty to their parties is the main factor drive opinion policies
 
 ### References
 
-- Relevant research studies and data sources used in the analysis.
+- Relevant research studies and data sources used in the analysis
