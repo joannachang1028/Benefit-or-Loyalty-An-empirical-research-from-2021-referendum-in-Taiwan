@@ -22,7 +22,13 @@ This raises the question: In a polarized political environment, do citizens prio
 
 ## Project Slides
 
-[![View Slides](https://img.shields.io/badge/View_Presentation-Click_Here-blue?style=for-the-badge&logo=googleslides)](./Slide_Benefit%20or%20Loyalty_An%20Empirical%20Research%20from%20the%202021%20Referendum%20in%20Taiwan.pdf)
+<p align="center">
+  <a href="./Slide_Benefit%20or%20Loyalty_An%20Empirical%20Research%20from%20the%202021%20Referendum%20in%20Taiwan.pdf">
+    <img src="./thumbnail.png" width="80%" alt="Click to view slides">
+    <br>
+    🖱️ Click to see the slidedeck.
+  </a>
+</p>
 
 ### Conclusion
 
